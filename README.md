@@ -34,7 +34,5 @@ Fault monitoring hooks for future safe-mode / load-shedding logic
 🛠️ Hardware-Focused Design
 
 KiCad-based 4-layer PCB (EPS + LoRa + sensing on a single board)
-
 U.FL RF connector with optional π-network pads for antenna matching
-
 Designed as a teaching/learning platform for small-sat power electronics
