@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MMM")(type "KiCad")(uri "C:/Users/alifo/OneDrive/Desktop/KiCad components for senior")(options "")(descr "")(disabled))
+  (lib (name "KiCad components for senior")(type "KiCad")(uri "C:/Users/alifo/OneDrive/Desktop/KiCad components for senior")(options "")(descr ""))
+)
