@@ -1,4 +1,4 @@
-26634610375616589
+26643420845215434
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -69299,6 +69299,41 @@ solder jumper open
 0
 3
 3
+KiCad components for senior
+2525
+
+
+0
+2
+2
+KiCad components for senior
+DIO_PDS1040
+
+
+0
+3
+3
+KiCad components for senior
+LEDM1608X80
+
+
+0
+2
+2
+KiCad components for senior
+TRANS_2N7002
+
+
+0
+3
+3
+KiCad components for senior
+TRANS_SI7288DP-T1-GE3
+
+
+0
+6
+6
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
