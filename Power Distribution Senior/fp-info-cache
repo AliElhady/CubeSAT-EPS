@@ -1,4 +1,46 @@
-26643420845215434
+26669885385786737
+2N7002
+TRANS_2N7002
+
+
+0
+3
+3
+103AT-2
+103AT-2
+
+
+0
+2
+2
+ABRACON ASE-8.000MHZ-LC-T
+OSC-SMD_4P-L3.2-W2.5-BL
+
+
+0
+4
+4
+ABRACON ASE-8.000MHZ-LC-T
+OSC-SMD_4P-L3.2-W2.5-CJ13-320001210A20
+
+
+0
+4
+4
+AO3401A
+SOT23-3
+
+
+0
+3
+3
+AO3407A
+SOT95P280X125-3N
+
+
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61347,6 +61389,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+DreamLNK DL-SX1278PA
+SMD-22_L37.0-W25.0-P2.54-LB
+
+
+0
+22
+22
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -62425,6 +62474,20 @@ GDT 3R-6
 0
 3
 3
+HRS U.FL-R-SMT-1(80)
+RF-SMD_FRF05002-JSS103M
+
+
+0
+3
+3
+HXY MOSFET ZMM15V
+LL-34_L3.5-W1.5-RD
+
+
+0
+2
+2
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -62642,6 +62705,20 @@ heatsink
 0
 0
 0
+ICM-42688-PC
+LGA-14_L3.0-W2.5-P0.50-TL
+
+
+0
+14
+14
+IHLP-2525CZ-01
+2525
+
+
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -70587,6 +70664,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LTST-C190GKT
+LEDM1608X80
+
+
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -74731,6 +74815,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PDS1040
+DIO_PDS1040
+
+
+0
+3
+3
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -97138,6 +97229,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SI7288DP-T1-GE3
+TRANS_SI7288DP-T1-GE3
+
+
+0
+6
+6
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -106287,3 +106385,10 @@ Varistor VF
 0
 2
 2
+YXC Crystal Oscillators X322516MLB4SI
+OSC-SMD_4P-L3.2-W2.5-BL
+
+
+0
+4
+4

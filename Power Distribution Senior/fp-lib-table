@@ -14,4 +14,6 @@
   (lib (name "LTST-C190GKT")(type "KiCad")(uri "C:/Users/alifo/OneDrive/Desktop/KiCad components for senior/LTST-C190GKT")(options "")(descr ""))
   (lib (name "PDS1040")(type "KiCad")(uri "C:/Users/alifo/OneDrive/Desktop/KiCad components for senior/PDS1040")(options "")(descr ""))
   (lib (name "ABRACON ASE-8.000MHZ-LC-T")(type "KiCad")(uri "C:/Users/alifo/OneDrive/Desktop/KiCad components for senior/ABRACON ASE-8.000MHZ-LC-T/ABRACON ASE-8.000MHZ-LC-T.pretty")(options "")(descr ""))
+  (lib (name "ICM-42688-PC")(type "KiCad")(uri "C:/Users/alifo/OneDrive/Desktop/KiCad components for senior/New folder/ICM-42688-PC.pretty")(options "")(descr ""))
+  (lib (name "HRS U.FL-R-SMT-1(80)")(type "KiCad")(uri "C:/Users/alifo/OneDrive/Desktop/KiCad components for senior/u.fl connector/HRS U.FL-R-SMT-1(80).pretty")(options "")(descr ""))
 )
