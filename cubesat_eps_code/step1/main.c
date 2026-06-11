@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 #include "eps_ina226.h"
 #include <stdio.h>
 #include <string.h>
